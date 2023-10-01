@@ -1,0 +1,8 @@
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\obj\Debug\CBC.csproj.AssemblyReference.cache
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\obj\Debug\CBC.csproj.SuggestedBindingRedirects.cache
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\obj\Debug\CBC.csproj.CoreCompileInputs.cache
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\bin\Debug\CBC.exe.config
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\bin\Debug\CBC.exe
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\bin\Debug\CBC.pdb
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\obj\Debug\CBC.exe
+D:\YairGabay\8200\GitHub\CBC\CBC\CBC\obj\Debug\CBC.pdb
